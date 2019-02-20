@@ -160,15 +160,15 @@ class Gateway extends AbstractGateway
     {
         return array(
             'secretApiKey' => '',
-            'siteId' => '',
-            'deviceId' => '',
-            'licenseId' => '',
-            'username' => '',
-            'password' => '',
-            'serviceUri' => '',
-            'developerId' => '',
-            'versionNumber' => '',
-            'siteTrace' => ''
+//            'siteId' => '',
+//            'deviceId' => '',
+//            'licenseId' => '',
+//            'username' => '',
+//            'password' => '',
+//            'serviceUri' => '',
+//            'developerId' => '',
+//            'versionNumber' => '',
+//            'siteTrace' => ''
         );
     }
 
