@@ -22,11 +22,11 @@
         "psr-4": { "Omnipay\\Heartland\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "~3.0"
     },
     "require-dev": {
-        "omnipay/tests": "~2.0",
-        "friendsofphp/php-cs-fixer": "2.2.5"
+        "omnipay/tests": "~3.0",
+        "friendsofphp/php-cs-fixer": "2.14.*"
     },
     "scripts": {
         "lint": "phpcs --standard=PSR2 src",
